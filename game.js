@@ -6,3 +6,4 @@ function nextSequence() {
     var randomChosenColour = buttonColours[randomNumber];
     buttonColours.push(randomChosenColour);
 }
+$
